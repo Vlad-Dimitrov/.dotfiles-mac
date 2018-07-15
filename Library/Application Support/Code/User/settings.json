@@ -1,0 +1,9 @@
+{
+    "workbench.iconTheme": "file-icons",
+    "editor.fontSize": 18,
+    "editor.fontFamily": "Inconsolata, Droid Sans Mono, Menlo, Monaco, 'Courier New', monospace",
+    "editor.wordWrap": "wordWrapColumn",
+    "workbench.colorTheme": "FlatUI Dark",
+    "editor.wordWrapColumn": 100,
+    "editor.minimap.enabled": false,
+}
