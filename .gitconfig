@@ -1,0 +1,9 @@
+[user]
+	email = dimitrov.vla@gmail.com
+	name = Vlad
+[color]
+	ui = auto
+[merge]
+	conflictstyle = diff3
+[core]
+	editor = code --wait
